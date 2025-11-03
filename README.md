@@ -6,9 +6,21 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 
 # SRS (Procedure):
 
-To create Hospital Management System software that will meet the needs of the applicant and help them with patient registration, booking medical services or appointments, modification in the database, and cancellation of registered appointments or services.
+## Step 1: Problem Identification
 
-# DIAGRAMS:
+Manual hospital record handling causes delays and errors in patient care. The system aims to automate patient registration, appointment scheduling, billing, and report management.
+
+## Step 2: Requirement Analysis
+
+Users: Admin, Doctor, Nurse, Receptionist, and Patient.  
+Main Functions: Patient registration, appointment booking, doctor management, billing, medical report handling, and discharge summary.    
+Non-Functional Needs: Security of patient data, reliability, and easy access.    
+
+## Step 3: System Design
+
+Create UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
+Design database tables for Patients, Doctors, Appointments, Bills, and Reports.    
+
 
 ## USE CASE DIAGRAM:
 
