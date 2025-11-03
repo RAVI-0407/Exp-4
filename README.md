@@ -21,8 +21,9 @@ Non-Functional Needs: Security of patient data, reliability, and easy access.
 Create UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
 Design database tables for Patients, Doctors, Appointments, Bills, and Reports.    
 
+# UML DIAGRAM 
 
-## USE CASE DIAGRAM:
+## USECASE DIAGRAM:
 
 <img width="932" height="964" alt="image" src="https://github.com/user-attachments/assets/339c288c-5eb0-4266-8cbe-c441bf14f198" />
 
